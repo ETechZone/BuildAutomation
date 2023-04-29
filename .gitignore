@@ -1,0 +1,6 @@
+Copy code
+
+# Build files
+Release/
+Debug/
+#.settings/

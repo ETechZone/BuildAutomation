@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+environment/project/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.563608785/CWD/delimiter=;
+environment/project/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.563608785/CWD/operation=replace
+environment/project/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.563608785/CWD/value=W\:\\GitHUB\\BuildAutomation\\Simple_LED_Blink\\Output\\Debug
+environment/project/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.563608785/append=true
+environment/project/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.563608785/appendContributed=true
+environment/project/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1892643992/append=true
+environment/project/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1892643992/appendContributed=true
